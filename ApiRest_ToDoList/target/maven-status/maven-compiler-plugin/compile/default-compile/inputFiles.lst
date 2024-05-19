@@ -1,0 +1,9 @@
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\com\mycompany\apirest_todolist\ApiRest_ToDoList.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Persistencia\ListaTareasPersistencia.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Persistencia\exceptions\IllegalOrphanException.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Logica\ControladorLogica_Lista.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Persistencia\exceptions\PreexistingEntityException.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Persistencia\ListaTareasJpaController.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Vista\ToDoList.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Logica\ListaTareas.java
+C:\Users\Itati\Documents\NetBeansProjects\ApiRest_ToDoList\src\main\java\Persistencia\exceptions\NonexistentEntityException.java
